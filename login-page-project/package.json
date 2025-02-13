@@ -1,0 +1,21 @@
+{
+  "name": "login-page-project",
+  "version": "1.0.0",
+  "description": "A simple login page project with HTML, CSS, and JavaScript.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "login",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
